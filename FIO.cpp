@@ -1,7 +1,6 @@
-#include <iostream>
-using namespace std;
-int main(){
-cout<<"MISHAKOV EU";
+double M(){
+
+   cout<<"MISHAKOV EU";
 
    return 0;
 }
