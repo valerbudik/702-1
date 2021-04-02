@@ -1,0 +1,294 @@
+    1  pwd
+    2  cd desktop
+    3  git clone https://bitbucket.org/NEFUstudent/nefu_pm18/web2019/HoholovStrekalovskii
+    4  git clone https://bitbucket.org/NEFUstudent/nefu_pm18/web2019/HoholovStrekalovskii
+    5  git clone https://bitbucket.org/NEFUstudent/nefu_pm18/web2019/HoholovStrekalovskii
+    6  pwd
+    7  git init
+    8  git add auto_service_new.jpg
+    9  git commit -m "v1"
+   10  git remote add origin https://github.com/fogerion/saitbd.git
+   11  git push -u origin master
+   12  $ git push -u origin master
+   13  $ git push -u origin master
+   14  git remote add origin https://github.com/fogerion/saitbd.git
+   15  git push -u origin master
+   16  cd Desktop
+   17  git init
+   18  git add auto_service_new.jpg
+   19  git commit -m "v1"
+   20  git config --global user.name "fogerion"
+   21  git config --global user.email "fogerdbrdtl@gmail.com"
+   22  git config --global user.name "fogerion"
+   23  git commit -m "v1"
+   24  git remote add origin https://github.com/fogerion/saitbd.git
+   25  git push -u origin master
+   26  cd desktop
+   27  git clone https://github.com/fogerion/saitbd.git
+   28  cd desktop
+   29  cd saitbdmain
+   30  saitmain
+   31  cd saitmain
+   32  git init
+   33  git add *
+   34  git commit -m "first commit"
+   35  git remote add origin https://github.com/fogerion/saitbd.git
+   36  git push -u origin master
+   37  cd desktop
+   38  cd saitmain
+   39  git init
+   40  git add *
+   41  git commit -m "nakonesto"
+   42  git remote add origin https://github.com/fogerion/saitbd.git
+   43  git push -u origin master
+   44  cd desktop
+   45  cd saitmain
+   46  git init
+   47  git add *
+   48  git commit -m "first commit"
+   49  git remote add origin https://github.com/fogerion/saitbd.git
+   50  git push -u origin master
+   51  cd desktop
+   52  git clone https://github.com/masterpiece1408/ggj20
+   53  дд
+   54  git config --global user.name "FOGER"
+   55  git config --global user.email fogeryndrdtl@gmail.com
+   56  git config --global core.editor nano
+   57  git config --list --global
+   58  git log --oneline --decorate --graph-all
+   59  git ll
+   60  git --help
+   61  git config --global alias.ll git log --oneline --decorate --graph-all
+   62  git ll
+   63  git config --global alias.ll 'git log --oneline --decorate --graph-all'
+   64  git ll
+   65  git config --global alias.ll "git log --oneline --decorate --graph --all"
+   66  git ll
+   67  git config --global alias.ll 'git log --oneline --decorate --graph -all'
+   68  git ll
+   69  git log --oneline --decorate --graph -all
+   70  git log --oneline --decorate --graph -all
+   71  git log --oneline --decorate --graph --all
+   72  git config --global alias.ll 'git log --oneline --decorate --graph --all'
+   73  git ll
+   74  ll
+   75  log --oneline --decorate --graph --all
+   76  got log --oneline --decorate --graph --all
+   77  git log --oneline --decorate --graph --all
+   78  ll
+   79  git init MEU
+   80  cd
+   81  ls
+   82  cd desktop
+   83  cd MEU
+   84  git init
+   85  cat .gitignore
+   86  add .gitignore
+   87  git add .gitignore
+   88  cat .gitignore
+   89  cat .gitignor
+   90  cat .gitignor.
+   91  git add .gitignore.
+   92  sudo cat .gitignor
+   93  cd .git
+   94  cat .gitignore
+   95  cd ..
+   96  nano .gitignore
+   97  cat .gitignore
+   98  nano hello.py
+   99  python3 hello.py
+  100  python hello.py
+  101  git status
+  102  git add
+  103  git status
+  104  nano .gitignore
+  105  ls
+  106  nano 1.cpp
+  107  nano 2.cpp
+  108  git add
+  109  nano .gitignore
+  110  git add .
+  111  git add .
+  112  git status
+  113  git commit  -m 'my first commit'
+  114  git status
+  115  git log
+  116  ll
+  117  nano 1.cpp
+  118  git status
+  119  git add
+  120  git add .
+  121  git add .
+  122  git status
+  123  nano 1.cpp
+  124  git status
+  125  git add .
+  126  git add .
+  127  git status
+  128  nano .gitignore
+  129  nano .gitignore
+  130  nano 1.cpp
+  131  git add .
+  132  nano .gitignore
+  133  git status
+  134  git add .
+  135  git status
+  136  git commit -m "asd"
+  137  cd ..
+  138  cd MEU
+  139  ls
+  140  ll
+  141  git log
+  142  ls
+  143  git status
+  144  nano
+  145  nano c.cpp
+  146  git add .
+  147  git status
+  148  cd desktop
+  149  cd MEU
+  150  ls
+  151  git status
+  152  nano c3.cpp
+  153  ls
+  154  nano c3.cpp
+  155  nano c3.cpp
+  156  git status
+  157  git add .
+  158  git add.
+  159  git add .
+  160  git status
+  161  git add
+  162  git add .
+  163  git status
+  164  git add
+  165  git add .
+  166  git status
+  167  git add *
+  168  git add *
+  169  git status
+  170  git -f add *
+  171  git add *
+  172  nano .gitignore
+  173  git add .
+  174  nano .gitignore
+  175  git add .
+  176  git add .
+  177  git status
+  178  git commit -m "add new cpp files"
+  179  git status
+  180  nano c.cpp
+  181  git status
+  182  git add .
+  183  git add .
+  184  git status
+  185  git restore --staged .
+  186  git status
+  187  git restore
+  188  git restore .
+  189  cat c.cpp
+  190  cd desktop
+  191  mkdir 702-1
+  192  cd 702-1
+  193  git clone 'https://github.com/valerbudik/702-1'
+  194  nano MEU.cpp
+  195  git status
+  196  git init
+  197  git status
+  198  git add .
+  199  git add .
+  200  git commit -m "ADD FIO.CPP"
+  201  cd 702-1
+  202  ls
+  203  nano FIO.cpp
+  204  git add .
+  205  git add .
+  206  git commit -m "ADD FIO.CPP"
+  207  ls
+  208  git status
+  209  git status
+  210  git push
+  211  git push
+  212  git config --global user.name 'fogerion'
+  213  git config --global user.email 'fogeryndbrtl@gmail.com'
+  214  git push
+  215  git status
+  216  git pull
+  217  ls
+  218  git add FIO.cpp
+  219  git status
+  220  git add FIO.cpp
+  221  git status
+  222  git status
+  223  cd desktop
+  224  cd 702-1
+  225  cd 702-1
+  226  ls
+  227  git ini
+  228  git init
+  229  ls
+  230  add FIO.cpp
+  231  git add FIO.cpp
+  232  git status
+  233  nano FIO.cpp
+  234  git status
+  235  git add FIO.cpp
+  236  git add FIO.cpp
+  237  git commit -m "add FIO.cpp"
+  238  git pull
+  239  git push
+  240  git push
+  241  git status
+  242  nano MEU.cpp
+  243  nano FIO.cpp
+  244  git status
+  245  git add .
+  246  git add .
+  247  git commit -m 'change cpp'
+  248  git pull
+  249  git pull
+  250  git push
+  251  nano FIO.cpp
+  252  git add .
+  253  git add .
+  254  git status
+  255  git commit -m "change fio.cpp"
+  256  git pull
+  257  git push
+  258  ls
+  259  g++ main.cpp
+  260  cd desktop
+  261  cd 702-1
+  262  cd 702-1
+  263  ls
+  264  nano FIO.cpp
+  265* 
+  266  ls
+  267  git status
+  268  git add .
+  269  git add .
+  270  git commit -m "rename fio > meu"
+  271  git pull
+  272  git push
+  273  git pull
+  274  nano MEU.cpp
+  275  git add .
+  276  git add .
+  277  git commit -m "izmenil meu.cpp"
+  278  git pull
+  279  git push
+  280  git log
+  281  asd
+  282  git reset --hard HEAD^1
+  283  git log
+  284  cat MEU.cpp
+  285  git pull
+  286  cat MEU.cpp
+  287  cat VBE.cpp
+  288  cat MEU.cpp
+  289  cat VBE.cpp
+  290  git reset --hard HEAD^1
+  291  cat MEU.cpp
+  292  git log
+  293  git reflog
+  294  history > history_MEU.txt
