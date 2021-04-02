@@ -1,0 +1,152 @@
+    1  git log--oneline--decorate--graph--all
+    2  git log --oneline --decorate --graph --all
+    3  git config --globaluser.name "Davie Jones"
+    4  git config --globaluser.email valeriybudikin@gmail.com
+    5  git config --global user.name "Davie Jones"
+    6  git config --global user.email valeriybudikin@gmail.com
+    7  git config --global core.editor nano
+    8  git log --oneline --decorate --graph --all
+    9  git log --oneline --decorate --graph -all
+   10  git log --online --decorate --graph --all
+   11  git ll
+   12  git help
+   13  git log --oneline --decorate --graph --all
+   14  git config --global alias.ll
+   15  git config --global alias.ll 'git log --oneline --decorate --graph --all'
+   16  ll
+   17  cd desktop
+   18  cd VB
+   19  git init
+   20  cat .gitignore
+   21  cat .git ignore
+   22  cd .git
+   23  cat .gitignore
+   24  git status
+   25  cd ../
+   26  nano .gitignore
+   27  cat .gitignore
+   28  nano hello.py
+   29  python3 hello.py
+   30  python hello.py
+   31  git status
+   32  ls
+   33  git add .
+   34  git add .
+   35  git status
+   36  git commit -m "my first commit"
+   37  git status
+   38  ll
+   39  ls
+   40  nano c.cpp
+   41  git add .
+   42  nano c1.cpp
+   43  nano .gitignore
+   44  gid add .
+   45  git add .
+   46  nano .gitignore
+   47  git add .
+   48  git add .
+   49  git add .
+   50  ls
+   51  git status
+   52  nano hello.py
+   53  nano c.cpp
+   54  git add .
+   55  git add .
+   56  git status
+   57  git commit -m 'add 2 cpp files'
+   58  git add .
+   59  git add .
+   60  git status
+   61  cat .gitignore
+   62  git restore --staged
+   63  git restore HEAD
+   64  git restore --staged c.cpp
+   65  git status
+   66  git restore c.cpp
+   67  git status
+   68  cat c.cpp
+   69  cd desktop
+   70  cd VB
+   71  cd ../
+   72  mkdir ev
+   73  cd ev
+   74  git clone 'https://github.com/valerbudik/702-1'
+   75  git status
+   76  ls
+   77  cd 702-1
+   78  ls
+   79  git pull
+   80  ls
+   81  nano main.cpp
+   82  git pull
+   83  ls
+   84  git add main.cpp
+   85  git add main.cpp
+   86  git status
+   87  git commit
+   88  git commit -m "add main.cpp"
+   89  git status
+   90  git push
+   91  nano main.cpp
+   92  cd desktop
+   93  cd ev
+   94  cd 702-1
+   95  git status
+   96  git add .
+   97  git add .
+   98  git commit -m 'main.cpp'
+   99  git pool
+  100  git pull
+  101  git push
+  102  git pull
+  103  git push
+  104  ls
+  105  git pull
+  106  git push
+  107  git status
+  108  ls
+  109  nano main.cpp
+  110  g++ -o main.cpp
+  111  c1 /EHsc main.cpp
+  112  main.cpp
+  113  cd main.cpp
+  114  c++ main.cpp
+  115  cpp main.cpp
+  116  mvs main.cpp
+  117  Visual Studio 2017 main.cpp
+  118  davenv main.cpp
+  119  devenv main.cpp
+  120  nano main.cpp
+  121  git pull
+  122  git add .
+  123  git add .
+  124  git commit -m "4"
+  125  git push
+  126  cd desktop
+  127  cd vb
+  128  cd ../
+  129  cd ev
+  130  cd 702-1
+  131  nano FIO.cpp
+  132  git pull
+  133  nano VBE.cpp
+  134  git add .
+  135  git add .
+  136  git commit -m"VBE"
+  137  git push
+  138  nano MEU.cpp
+  139  nano VBE.cpp
+  140  git add .
+  141  git add .
+  142  git commit -m "dobavil comment"
+  143  git push
+  144  git pull
+  145  git log
+  146  git reset --hard HEAD^1
+  147  git log
+  148  nano VBE.cpp
+  149  cat meu.cpp
+  150  cat VBE.cpp
+  151  git log
+  152  history > history_VBE.txt
